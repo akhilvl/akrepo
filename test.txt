@@ -6,4 +6,6 @@ echo "test";
 ///testing in develop
 //testing for commit
 //testing without commit
+
+//demo proper commit
 ?>
