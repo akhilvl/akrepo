@@ -1,5 +1,6 @@
 <?php
 	test32
+	test32
   test32 --- from core/
 //test22
 //test24
